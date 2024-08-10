@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Mike White
-
 🎮 **Game Developer | Programmer**
 
 - 💻 **Expertise:** Lua, C#
@@ -8,4 +6,4 @@
 
 ### 🌐 Connect with Me
 - [Discord] - mikewhite.
-- [Email](mailto:officialcombineempire@gmail.com)
+- [Email] - officialcombineempire@gmail.com
